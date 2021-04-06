@@ -1,0 +1,15 @@
+{
+  "name": "mb-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "listener": "tsc; node dist/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@magicbell/core": "^2.9.1",
+    "typescript": "^4.2.3"
+  }
+}
